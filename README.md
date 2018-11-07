@@ -1,2 +1,2 @@
 # tensorflow_study
-study
+class
