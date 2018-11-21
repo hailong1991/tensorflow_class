@@ -1,2 +1,2 @@
-# tensorflow_study
+# tensorflow_class
 class
